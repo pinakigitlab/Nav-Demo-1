@@ -1,0 +1,16 @@
+
+# Everything
+* @pinakigitlab
+
+# GitHub workflows
+.github/ @pinakigitlab
+
+# Source code
+src/ @pinakigitlab
+
+# Documentation
+docs/ @pinakigitlab
+
+# Config files
+*.yml @pinakigitlab
+*.yaml @pinakigitlab
